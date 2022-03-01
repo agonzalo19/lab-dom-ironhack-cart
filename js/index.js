@@ -1,10 +1,10 @@
 // ITERATION 1
 
-function updateSubtotal(product) {
+//function updateSubtotal(product) {
   console.log('Calculating subtotal, yey!');
 
   //... your code goes here
-}
+//}
 
 function calculateAll() {
   // code in the following two lines is added just for testing purposes.
